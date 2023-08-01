@@ -24,7 +24,7 @@ menu:
 nav:
   enable: false
   travelling: false
-  clock: false
+  clock: true
   menu:
     - title: 网页
       item:
@@ -40,7 +40,7 @@ nav:
 # Code Blocks (代码相关)
 # --------------------------------------
 
-highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac light #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -209,10 +209,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
+    - img: https://bu.dusays.com/2023/08/01/64c87a3a450d3.jpeg
       link:
       text: wechat
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png
+    - img: https://bu.dusays.com/2023/08/01/64c87b030a09d.jpeg
       link:
       text: alipay
 
@@ -940,16 +940,16 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 生活明朗
-  subTitle: 万物可爱。
-  siteText: anheyu.com
+  title: 学术无忧
+  subTitle: 毕业无忧
+  siteText: kshmr.cn
   category:
-    - name: 前端
+    - name: 计算机项目
       path: /categories/前端开发/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 大学
+    - name: 论文Tips
       path: /categories/大学生涯/
       shadow: var(--anzhiyu-shadow-red)
       class: red
@@ -965,9 +965,9 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 新品主题
-    title: Theme-AnZhiYu
-    image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
+    tips: 了解我们
+    title: 关于学术无忧软件工作室
+    image: https://bu.dusays.com/2023/07/25/64bfe53eb3860.jpg
     link: https://blog.anheyu.com/docs
 
 # 朋友圈配置
