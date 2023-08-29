@@ -1,9 +1,9 @@
 menu:
-  Java: /categories/Java || anzhiyu-icon-artstation
-  小程序: /categories/xiaochengxu || anzhiyu-icon-artstation
-  大数据: /categories/bigdata || anzhiyu-icon-artstation
-  机器学习: /categories/machinelearning || anzhiyu-icon-artstation
-  论文: /categories/theis || anzhiyu-icon-artstation
+  Web前后端: /categories/web || anzhiyu-icon-artstation
+  小程序: /categories/xiaochengxu/ || anzhiyu-icon-artstation
+  大数据: /categories/bigdata/ || anzhiyu-icon-artstation
+  机器学习: /categories/machinelearning/ || anzhiyu-icon-artstation
+  论文: /categories/theis/ || anzhiyu-icon-artstation
   关于我们: /about/ || anzhiyu-icon-paper-plane
 
   # 文章:
