@@ -1,9 +1,9 @@
 menu:
   Java: /categories/Java || anzhiyu-icon-artstation
-  小程序: /categories/小程序 || anzhiyu-icon-artstation
-  大数据: /categories/大数据 || anzhiyu-icon-artstation
-  机器学习: /categories/机器学习 || anzhiyu-icon-artstation
-  论文: /categories/论文 || anzhiyu-icon-artstation
+  小程序: /categories/xiaochengxu || anzhiyu-icon-artstation
+  大数据: /categories/bigdata || anzhiyu-icon-artstation
+  机器学习: /categories/machinelearning || anzhiyu-icon-artstation
+  论文: /categories/theis || anzhiyu-icon-artstation
   关于我们: /about/ || anzhiyu-icon-paper-plane
 
   # 文章:
@@ -729,8 +729,8 @@ aside:
     content: 欢迎来看我的博客鸭~
   card_weixin:
     enable: true
-    face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
-    backFace: https://bu.dusays.com/2023/05/13/645fa415e8694.png
+    face: https://bu.dusays.com/2023/08/29/64edbcc7c2aab.png
+    backFace: https://bu.dusays.com/2023/08/29/64edbcc7c2aab.png
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
