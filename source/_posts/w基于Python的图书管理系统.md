@@ -1,5 +1,6 @@
 ---
 title: 基于Python的图书管理系统
+date: 2023-08-29
 categories: web
 ---
 # 基于Python的图书管理系统——打造您的毕业设计新里程

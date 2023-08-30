@@ -1,6 +1,7 @@
 ---
 title: 基于Hadoop的电商大数据分析系统的设计与实现
 categories: bigdata
+date: 2023-08-29
 ---
 
 # 基于Hadoop的电商大数据分析系统的设计与实现——为您的毕业设计赋能

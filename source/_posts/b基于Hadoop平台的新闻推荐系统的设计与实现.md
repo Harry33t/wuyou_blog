@@ -1,6 +1,7 @@
 ---
 title: 基于Hadoop平台的新闻推荐系统的设计与实现
 categories: bigdata
+date: 2023-08-29
 ---
 
 # 基于Hadoop平台的新闻推荐系统的设计与实现——塑造您的毕业设计新视角

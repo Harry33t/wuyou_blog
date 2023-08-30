@@ -1,5 +1,6 @@
 ---
 title: 写作出色的软件工程实验报告：一份详细指导
+date: 2023-08-29
 categories: thesis
 ---
 

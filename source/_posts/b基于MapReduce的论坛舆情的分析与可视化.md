@@ -1,6 +1,7 @@
 ---
 title: 基于MapReduce的论坛舆情的分析与可视化系统
 categories: bigdata
+date: 2023-08-29
 ---
 
 # 基于MapReduce的论坛舆情分析与可视化——开启您的毕业设计新篇章

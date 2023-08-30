@@ -1,5 +1,6 @@
 ---
 title: 如何选择计算机科学论文的合适主题
+date: 2023-08-29
 categories: thesis
 ---
 

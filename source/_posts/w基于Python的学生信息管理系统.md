@@ -1,5 +1,6 @@
 ---
 title: 基于Python的学生信息管理系统
+date: 2023-08-29
 categories: web
 ---
 # 基于Python的学生信息管理系统——毕业设计新视角

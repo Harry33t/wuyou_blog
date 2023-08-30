@@ -1,5 +1,6 @@
 ---
 title: 机器学习相关论文的文献综述写作技巧
+date: 2023-08-29
 categories: thesis
 ---
 

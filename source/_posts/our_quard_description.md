@@ -1,5 +1,6 @@
 ---
 title: 学术无忧——软件大数据团队
+date: 2023-08-01
 layout: about
 categories: about
 cover: https://bu.dusays.com/2023/07/31/64c7b412a673c.jpg

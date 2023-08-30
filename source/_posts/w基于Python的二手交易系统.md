@@ -1,5 +1,6 @@
 ---
 title: 基于Python的二手交易系统
+date: 2023-08-29
 categories: web
 ---
 # 基于Python的二手交易系统——创新您的毕业设计新途径

@@ -1,5 +1,6 @@
 ---
 title: SpringBoot机房管理与监控系统
+date: 2023-08-29
 categories: web
 ---
 

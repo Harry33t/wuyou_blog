@@ -1,5 +1,6 @@
 ---
 title: 基于Python和协同过滤的音乐推荐系统
+date: 2023-08-29
 categories: web
 ---
 # 基于Python和协同过滤的音乐推荐系统——引领您的音乐体验新篇章
